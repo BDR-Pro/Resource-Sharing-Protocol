@@ -1,6 +1,7 @@
 # 🔗 RSP (Resource Sharing Protocol) — Colab Demo
 
 This notebook demonstrates the core logic of **RSP**, a custom binary protocol for buying/selling virtual machines (VMs) securely.
+[View In Colab](https://colab.research.google.com/drive/1mDwT-OAGRidIXqCYIcJJzs5MG11WJy8g?usp=sharing)
 
 ### ✅ Features
 
